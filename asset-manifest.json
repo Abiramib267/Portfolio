@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Abiramib267/Portfolio/static/css/main.009632d2.css",
-    "main.js": "/Abiramib267/Portfolio/static/js/main.fed01f8a.js",
-    "static/media/e-commerce.jpg": "/Abiramib267/Portfolio/static/media/e-commerce.ee07f30d2d5bcfe2a34f.jpg",
-    "static/media/abi.png": "/Abiramib267/Portfolio/static/media/abi.0d40aa65c22b214b20a8.png",
-    "static/media/resume.png": "/Abiramib267/Portfolio/static/media/resume.1cc473562db0db6d6ff0.png",
-    "static/media/food.jpg": "/Abiramib267/Portfolio/static/media/food.000cbc2ed31fcdca1d41.jpg",
-    "static/media/Agency.png": "/Abiramib267/Portfolio/static/media/Agency.dd0f631ef15ad66ff55a.png",
-    "static/media/Showcase.jpg": "/Abiramib267/Portfolio/static/media/Showcase.bf038bbdc69d01a3db73.jpg",
-    "static/media/hospital.jpg": "/Abiramib267/Portfolio/static/media/hospital.9fb15f5e7a7bfd8b6e39.jpg",
-    "static/media/Email.png": "/Abiramib267/Portfolio/static/media/Email.3b2160429a0ecfeffec6.png",
-    "static/media/linkedin.png": "/Abiramib267/Portfolio/static/media/linkedin.293634ce93de90feb5fa.png",
-    "static/media/github.png": "/Abiramib267/Portfolio/static/media/github.8a5cc3b65d70dd4036f7.png",
-    "static/media/phone.png": "/Abiramib267/Portfolio/static/media/phone.2ce45c31b5da248aa65b.png",
-    "index.html": "/Abiramib267/Portfolio/index.html",
-    "main.009632d2.css.map": "/Abiramib267/Portfolio/static/css/main.009632d2.css.map",
-    "main.fed01f8a.js.map": "/Abiramib267/Portfolio/static/js/main.fed01f8a.js.map"
+    "main.css": "/Portfolio/static/css/main.009632d2.css",
+    "main.js": "/Portfolio/static/js/main.9dc52b94.js",
+    "static/media/e-commerce.jpg": "/Portfolio/static/media/e-commerce.ee07f30d2d5bcfe2a34f.jpg",
+    "static/media/abi.png": "/Portfolio/static/media/abi.0d40aa65c22b214b20a8.png",
+    "static/media/resume.png": "/Portfolio/static/media/resume.1cc473562db0db6d6ff0.png",
+    "static/media/food.jpg": "/Portfolio/static/media/food.000cbc2ed31fcdca1d41.jpg",
+    "static/media/Agency.png": "/Portfolio/static/media/Agency.dd0f631ef15ad66ff55a.png",
+    "static/media/Showcase.jpg": "/Portfolio/static/media/Showcase.bf038bbdc69d01a3db73.jpg",
+    "static/media/hospital.jpg": "/Portfolio/static/media/hospital.9fb15f5e7a7bfd8b6e39.jpg",
+    "static/media/Email.png": "/Portfolio/static/media/Email.3b2160429a0ecfeffec6.png",
+    "static/media/linkedin.png": "/Portfolio/static/media/linkedin.293634ce93de90feb5fa.png",
+    "static/media/github.png": "/Portfolio/static/media/github.8a5cc3b65d70dd4036f7.png",
+    "static/media/phone.png": "/Portfolio/static/media/phone.2ce45c31b5da248aa65b.png",
+    "index.html": "/Portfolio/index.html",
+    "main.009632d2.css.map": "/Portfolio/static/css/main.009632d2.css.map",
+    "main.9dc52b94.js.map": "/Portfolio/static/js/main.9dc52b94.js.map"
   },
   "entrypoints": [
     "static/css/main.009632d2.css",
-    "static/js/main.fed01f8a.js"
+    "static/js/main.9dc52b94.js"
   ]
 }
